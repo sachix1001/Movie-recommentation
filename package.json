@@ -14,7 +14,7 @@
     "content-based-recommender": "^1.4.0",
     "convert-csv-to-json": "^0.0.15",
     "csvtojson": "^2.0.10",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "^0.0.1-security",
     "ger": "^0.0.99",
     "knex": "^0.20.9",
